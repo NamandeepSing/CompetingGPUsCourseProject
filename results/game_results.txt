@@ -1,0 +1,59 @@
+Competition initialized.
+Player 1 (GPU[0], Random) vs Player 2 (GPU[1], Random)
+. | . | .
+--+---+--
+. | . | .
+--+---+--
+. | . | .
+
+Turn 1: Player 1 (GPU[0], Random) places X at (1, 1)
+. | . | .
+--+---+--
+. | X | .
+--+---+--
+. | . | .
+
+Turn 2: Player 2 (GPU[1], Random) places O at (0, 1)
+. | O | .
+--+---+--
+. | X | .
+--+---+--
+. | . | .
+
+Turn 3: Player 1 (GPU[0], Random) places X at (2, 2)
+. | O | .
+--+---+--
+. | X | .
+--+---+--
+. | . | X
+
+Turn 4: Player 2 (GPU[1], Random) places O at (1, 0)
+. | O | .
+--+---+--
+O | X | .
+--+---+--
+. | . | X
+
+Turn 5: Player 1 (GPU[0], Random) places X at (2, 1)
+. | O | .
+--+---+--
+O | X | .
+--+---+--
+. | X | X
+
+Turn 6: Player 2 (GPU[1], Random) places O at (1, 2)
+. | O | .
+--+---+--
+O | X | O
+--+---+--
+. | X | X
+
+Turn 7: Player 1 (GPU[0], Random) places X at (0, 0)
+X | O | .
+--+---+--
+O | X | O
+--+---+--
+. | X | X
+
+Player 1 (GPU[0], Random) WINS!
+Competition ended.

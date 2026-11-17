@@ -1,0 +1,8 @@
+CompetingGPUs installation instructions (Windows)
+
+1. Ensure CUDA Toolkit 13.0 and NVIDIA drivers 581.42 or above are installed.
+2. Download or clone this repository.
+3. Open a terminal (cmd or PowerShell) in the project root.
+4. Run 'make' to compile (requires nvcc available in your PATH).
+5. Execute scripts/run.bat or launch bin/CompetingGPUs.exe manually.
+6. Output will be saved in the 'results' folder.
